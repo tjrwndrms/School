@@ -1,0 +1,9 @@
+names:
+- car
+- truck
+- bus
+- autobycle
+- pedestrian
+nc: 5
+train: C:\Users\Admin\Downloads\train
+val: C:\Users\Admin\Downloads\validW
